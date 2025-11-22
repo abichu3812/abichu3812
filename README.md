@@ -1,16 +1,28 @@
-## Hi there 👋
+@"
 
-<!--
-**abichu3812/abichu3812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi 👋, I’m **Abeb Minale** — a passionate **full-stack developer** from **Ethiopia**.  
+I enjoy building web and mobile apps and I'm currently learning **Flutter**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I work with
+Ask me about:
+- React
+- Node.js
+- Laravel
+- Next.js
+
+## 🌐 Projects
+All of my projects are available at:  
+https://github.com/abichu3812
+
+## 📫 How to reach me
+Email: minaleabichu3812@amail.com
+
+## 🔗 Connect with me
+- Languages & Tools: Bootstrap, React, Next.js
+- Learning: Flutter
+
+---
+
+> Thanks for visiting my profile — feel free to reach out!
+"@ > README.md
