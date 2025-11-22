@@ -2,7 +2,7 @@
 
 
 Hi 👋, I’m **Abeb Minale** — a passionate **full-stack developer** from **Ethiopia**.  
-I enjoy building web and mobile apps and I'm currently learning **Flutter**.
+I enjoy building web and mobile apps.
 
 ## 🔭 What I work with
 Ask me about:
