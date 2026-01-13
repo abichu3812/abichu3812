@@ -1,7 +1,7 @@
 @"
 
 
-Hi 👋, I’m **Abeb Minale** — a passionate **full-stack developer** from **Ethiopia**.  
+Hi 👋, I’m **Abebe Minale ** — a passionate **full-stack developer** from **Ethiopia**.  
 I enjoy building web and mobile apps.
 
 ## 🔭 What I work with
